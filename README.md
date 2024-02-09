@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Electronics Engineer
 -----------------------------
 
-Passionate Electronics Enthusiast on a Quest for Innovation and Growth, eager to embark on a fulfilling journey with a forward-thinking organization. With a solid foundation in ECE and a hunger for challenges, I aspire to leverage my technical prowess to drive impactful solutions and contribute meaningfully to the advancement of technology.https://tenor.com/view/robot-joypixels-look-around-android-hardworking-gif-17554204
+Passionate Electronics Enthusiast on a Quest for Innovation and Growth, eager to embark on a fulfilling journey with a forward-thinking organization. With a solid foundation in ECE and a hunger for challenges, I aspire to leverage my technical prowess to drive impactful solutions and contribute meaningfully to the advancement of technology.
 
 * 🌍  I'm based in Tamil Nadu, INDIA
 * 🧠  I'm learning LABVIEW, Azure IoT, Core Java
