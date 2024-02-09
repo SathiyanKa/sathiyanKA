@@ -7,7 +7,7 @@ Aspiring Electronics Engineer
 Passionate Electronics Enthusiast on a Quest for Innovation and Growth, eager to embark on a fulfilling journey with a forward-thinking organization. With a solid foundation in ECE and a hunger for challenges, I aspire to leverage my technical prowess to drive impactful solutions and contribute meaningfully to the advancement of technology.
 
 
-                                                                                                                                          ![robot-joypixels](https://github.com/SathiyanKa/sathiyanKA/assets/100779438/f8db7898-4b18-4ba7-8431-1bfa2df254a0)
+                                                                                                                                          [robot-joypixels](https://github.com/SathiyanKa/sathiyanKA/assets/100779438/f8db7898-4b18-4ba7-8431-1bfa2df254a0)
 
 
 * 🌍  I'm based in Tamil Nadu, INDIA
