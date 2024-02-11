@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SATHIYAN K A
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm is SATHIYAN K A
 ====================================================================================================================================
 
 Aspiring Electronics Engineer
@@ -11,7 +11,7 @@ Passionate Electronics Enthusiast on a Quest for Innovation and Growth, eager to
                                                                           
 
 * 🌍  I'm based in Tamil Nadu, INDIA
-* 🧠  I'm learning LABVIEW, Azure IoT, Core Java
+* 🧠  I'm Currently learning LABVIEW, Azure IoT, Core Java
 
 ### Skills
 
