@@ -11,7 +11,7 @@ Passionate Electronics Enthusiast on a Quest for Innovation and Growth, eager to
                                                                           
 
 * 🌍  I'm based in Tamil Nadu, INDIA
-* 🧠  I'm Currently learning LABVIEW, Azure IoT, Core Java
+* 🧠  I'm Currently learning SQL, DBMS, Core Java
 
 ### Skills
 
