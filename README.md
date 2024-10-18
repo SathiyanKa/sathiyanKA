@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm SATHIYAN K A
 ====================================================================================================================================
 
-Aspiring Electronics Engineer
+Aspiring Data Engineer
 -----------------------------
 
-Passionate Electronics Enthusiast on a Quest for Innovation and Growth, eager to embark on a fulfilling journey with a forward-thinking organization. With a solid foundation in ECE and a hunger for challenges, I aspire to leverage my technical prowess to drive impactful solutions and contribute meaningfully to the advancement of technology.
+Passionate Data Enthusiast on a Quest for Innovation and Growth, eager to embark on a fulfilling journey with a forward-thinking organization. With a solid foundation in data analysis and a hunger for challenges, I aspire to leverage my analytical skills and technical prowess to drive impactful insights and contribute meaningfully to the advancement of data-driven decision-making.
 
 ![robot-joypixels](https://github.com/SathiyanKa/sathiyanKA/assets/100779438/59fc7017-be4f-4117-9eb3-a3a4125495e0)
 
                                                                           
 
 * 🌍  I'm based in Tamil Nadu, INDIA
-* 🧠  I'm Currently learning SQL, DBMS, Core Java
+* 🧠  I'm Currently learning ML, SQL, DBMS, Core Java
 
 ### Skills
 
